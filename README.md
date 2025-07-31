@@ -4,7 +4,7 @@
 A serverless budget tracking app built with **AWS (Lambda, API Gateway, DynamoDB)**, **React**, **Python**, and **Terraform**. Users can log income and expenses, view their balance, and track spending categories.
 
 ## 🏗 Tech Stack
-- **Frontend:** React (Vite/CRA), Axios, Bootstrap/Tailwind (UI)
+- **Frontend:** React (Vite), Axios, Bootstrap (UI)
 - **Backend:** Python (AWS Lambda + API Gateway), boto3 SDK
 - **Database:** AWS DynamoDB (NoSQL, serverless)
 - **Infrastructure:** Terraform (AWS IaC), AWS CLI
